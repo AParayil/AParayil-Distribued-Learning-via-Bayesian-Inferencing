@@ -1,1 +1,1 @@
-# AParayil-Distribued-Learning-via-Bayesian-Inferencing
+# AParayil-Distributed-Learning-via-Bayesian-Inferencing
